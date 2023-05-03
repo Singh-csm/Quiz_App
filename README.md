@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project deployed Link [Create React App](https://splendid-entremet-0d7755.netlify.app/).
+This project deployed Link [Quiz App](https://splendid-entremet-0d7755.netlify.app/).
 
 ![image](https://user-images.githubusercontent.com/118621709/235925189-d11ebb40-7f73-4648-ad7a-d723e99855fd.png)
 
